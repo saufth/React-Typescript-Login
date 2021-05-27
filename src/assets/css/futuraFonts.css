@@ -1,0 +1,41 @@
+/********** Typography **********/
+
+/***** Font *****/
+
+/** Futura **/
+
+@font-face {
+	font-family: futuraLight;
+	src: url(../fonts/futura/FuturaPTLight.otf);
+}
+
+@font-face {
+	font-family: futuraBook;
+	src: url(../fonts/futura/FuturaPTBook.otf);
+}
+
+@font-face {
+	font-family: futuraDemi;
+	src: url(../fonts/futura/FuturaPTDemi.otf);
+}
+
+@font-face {
+	font-family: futuraMed;
+	src: url(../fonts/futura/FuturaPTMedium.otf);
+}
+
+.futura__light {
+	font-family: futuraLight;
+}
+
+.futura__book {
+	font-family: futuraBook;
+}
+
+.futura__demi {
+	font-family: futuraDemi;
+}
+
+.futura__med {
+	font-family: futuraMed;
+}
